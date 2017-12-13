@@ -8,6 +8,6 @@ public class Main {
      */
     public static void main(String[] args) {
         new Snake();
-        //Change Control
+        //Change Controlbvbvcx
     }
 }
